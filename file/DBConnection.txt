@@ -1,1 +1,1 @@
-asdasdasda
+Data Source=localhost;Initial Catalog=MASTER;Integrated Security=True;
