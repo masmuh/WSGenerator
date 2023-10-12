@@ -1,5 +1,7 @@
 # WSGenerator
 
+This project is used to generate CSV files based on SQL query dynamically. Please use the database SQL server
+
 Please run executor.bat in cmd 
 executor.bat example in folder file
 
